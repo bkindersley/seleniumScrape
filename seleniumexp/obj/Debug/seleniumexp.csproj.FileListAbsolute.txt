@@ -1,0 +1,10 @@
+C:\Users\Bria\dev\seleniumexp\seleniumexp\bin\Debug\seleniumexp.exe.config
+C:\Users\Bria\dev\seleniumexp\seleniumexp\bin\Debug\seleniumexp.exe
+C:\Users\Bria\dev\seleniumexp\seleniumexp\bin\Debug\seleniumexp.pdb
+C:\Users\Bria\dev\seleniumexp\seleniumexp\bin\Debug\WebDriver.dll
+C:\Users\Bria\dev\seleniumexp\seleniumexp\bin\Debug\WebDriver.Support.dll
+C:\Users\Bria\dev\seleniumexp\seleniumexp\bin\Debug\WebDriver.xml
+C:\Users\Bria\dev\seleniumexp\seleniumexp\bin\Debug\WebDriver.Support.xml
+C:\Users\Bria\dev\seleniumexp\seleniumexp\obj\Debug\seleniumexp.csprojResolveAssemblyReference.cache
+C:\Users\Bria\dev\seleniumexp\seleniumexp\obj\Debug\seleniumexp.exe
+C:\Users\Bria\dev\seleniumexp\seleniumexp\obj\Debug\seleniumexp.pdb
