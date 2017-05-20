@@ -8,3 +8,7 @@ C:\Users\Bria\dev\seleniumexp\seleniumexp\bin\Debug\WebDriver.Support.xml
 C:\Users\Bria\dev\seleniumexp\seleniumexp\obj\Debug\seleniumexp.csprojResolveAssemblyReference.cache
 C:\Users\Bria\dev\seleniumexp\seleniumexp\obj\Debug\seleniumexp.exe
 C:\Users\Bria\dev\seleniumexp\seleniumexp\obj\Debug\seleniumexp.pdb
+C:\Users\Bria\dev\seleniumexp\seleniumexp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bria\dev\seleniumexp\seleniumexp\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Bria\dev\seleniumexp\seleniumexp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bria\dev\seleniumexp\seleniumexp\bin\Debug\System.Net.Http.Formatting.xml
